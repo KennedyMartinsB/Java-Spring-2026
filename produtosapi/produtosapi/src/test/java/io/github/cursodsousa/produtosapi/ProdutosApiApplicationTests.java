@@ -1,10 +1,10 @@
-package io.github.KennedyMartinsB.produtosapi;
+package io.github.cursodsousa.produtosapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProdutosapiApplicationTests {
+class ProdutosApiApplicationTests {
 
 	@Test
 	void contextLoads() {
