@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b18bd3a5-07db-43fb-801d-a6d1c3e70b65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/controller/ProdutoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/model/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/ProdutosApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/ProdutosApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/controller/ProdutoController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -46,62 +47,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="6.576649817009667E-9" />
-      <entry key="MS500" value="0.023099412988653777" />
-      <entry key="S2" value="0.38985242130566167" />
-      <entry key="S5" value="0.6860568452475503" />
-      <entry key="S10" value="0.8285241457438117" />
-      <entry key="S30" value="1.154207541104898" />
-      <entry key="S60" value="2.1876398015628267" />
-      <entry key="M2" value="3.90022260755767" />
-      <entry key="M5" value="6.322580764558807" />
-      <entry key="M10" value="12.15375157097322" />
-      <entry key="M15" value="19.90763631667867" />
-      <entry key="M30" value="38.49626320898545" />
-      <entry key="H1" value="56.40137826925411" />
-      <entry key="H2" value="69.01468214214096" />
-      <entry key="H4" value="76.53150239009854" />
-      <entry key="D1" value="83.51727102087544" />
-      <entry key="W1" value="84.78636242634295" />
+      <entry key="MS100" value="4.20800709946084E-12" />
+      <entry key="MS500" value="0.005306587049019315" />
+      <entry key="S2" value="0.26990058333284495" />
+      <entry key="S5" value="0.5922178990698252" />
+      <entry key="S10" value="0.7695569498548014" />
+      <entry key="S30" value="0.9163898175313625" />
+      <entry key="S60" value="0.9572825170928261" />
+      <entry key="M2" value="0.9784087127934603" />
+      <entry key="M5" value="1.0029411033510993" />
+      <entry key="M10" value="1.5137411502299167" />
+      <entry key="M15" value="3.3891587506942353" />
+      <entry key="M30" value="14.361410496267991" />
+      <entry key="H1" value="34.687680395956846" />
+      <entry key="H2" value="55.22614584618107" />
+      <entry key="H4" value="70.01159797672358" />
+      <entry key="D1" value="85.49517147102198" />
+      <entry key="W1" value="88.49026791182611" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="1.0" />
       <entry key="MS500" value="1.0" />
       <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.000000251319139" />
-      <entry key="S10" value="1.0005791749004753" />
-      <entry key="S30" value="1.1230541273894032" />
-      <entry key="S60" value="1.4959059797426995" />
-      <entry key="M2" value="2.110407034026656" />
-      <entry key="M5" value="3.4654943031258596" />
-      <entry key="M10" value="5.834961381986013" />
-      <entry key="M15" value="8.31008337297075" />
-      <entry key="M30" value="13.655085472348546" />
-      <entry key="H1" value="18.513270349006117" />
-      <entry key="H2" value="21.846799689649835" />
-      <entry key="H4" value="23.808413909977084" />
-      <entry key="D1" value="25.61756732744392" />
-      <entry key="W1" value="25.944929682142853" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0000000000001121" />
+      <entry key="M2" value="1.0000004142607366" />
+      <entry key="M5" value="1.0063389278972241" />
+      <entry key="M10" value="1.243289048409613" />
+      <entry key="M15" value="1.9921817165525928" />
+      <entry key="M30" value="5.750867160068975" />
+      <entry key="H1" value="12.094482159191259" />
+      <entry key="H2" value="18.22196924586955" />
+      <entry key="H4" value="22.53762806228114" />
+      <entry key="D1" value="26.997461320695056" />
+      <entry key="W1" value="27.85433940722604" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.955737006302194E-4" />
-      <entry key="MS500" value="0.18340148786923127" />
-      <entry key="S2" value="0.8680133600988778" />
-      <entry key="S5" value="1.3842599632421029" />
-      <entry key="S10" value="1.6546383239401303" />
-      <entry key="S30" value="2.207534587624486" />
-      <entry key="S60" value="3.6364944927939105" />
-      <entry key="M2" value="5.976728098321694" />
-      <entry key="M5" value="9.766951155594333" />
-      <entry key="M10" value="17.970389782759657" />
-      <entry key="M15" value="28.19931875993087" />
-      <entry key="M30" value="52.13501261297028" />
-      <entry key="H1" value="74.90310370999892" />
-      <entry key="H2" value="90.85452760427543" />
-      <entry key="H4" value="100.3360879922872" />
-      <entry key="D1" value="109.13414597940421" />
-      <entry key="W1" value="110.73119178996936" />
+      <entry key="MS100" value="9.300953813466555E-9" />
+      <entry key="MS500" value="0.027538685879680818" />
+      <entry key="S2" value="0.6263155385261467" />
+      <entry key="S5" value="1.2459981527320623" />
+      <entry key="S10" value="1.5762579947311604" />
+      <entry key="S30" value="1.8467937279404578" />
+      <entry key="S60" value="1.9217910967703937" />
+      <entry key="M2" value="1.9604862267398224" />
+      <entry key="M5" value="2.002022523936641" />
+      <entry key="M10" value="2.7525874665749037" />
+      <entry key="M15" value="5.376628494287409" />
+      <entry key="M30" value="20.10527494734184" />
+      <entry key="H1" value="46.77456119619819" />
+      <entry key="H2" value="73.44228469969958" />
+      <entry key="H4" value="92.54558683597138" />
+      <entry key="D1" value="112.49190054763795" />
+      <entry key="W1" value="116.34449924781215" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -112,33 +116,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Maven.produtosapi [clean,install].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;Spring Boot.ProdutosApiApplication.executor&quot;: &quot;Run&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/negredy/Desktop/Java-files/Java-Spring-2026/produtosapi/produtosapi&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.produtosapi [clean,install].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.ProdutosApiApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/negredy/Desktop/Java-files/Java-Spring-2026/produtosapi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ProdutosApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
@@ -180,5 +184,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
   </component>
 </project>
