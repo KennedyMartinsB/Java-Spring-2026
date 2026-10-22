@@ -1,62 +1,165 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c41a4a59-5449-4700-903a-70ce03d10fe7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/produtosapi/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/produtosapi/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/produtosapi/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/produtosapi/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/produtosapi/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/src/main/java/io/github/KennedyMartinsB/produtosapi/ProdutosapiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/produtosapi/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/produtosapi/src/test/java/io/github/KennedyMartinsB/produtosapi/ProdutosapiApplicationTests.java" beforeDir="false" />
+    <list default="true" id="b18bd3a5-07db-43fb-801d-a6d1c3e70b65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/controller/ProdutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/model/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/ProdutosApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/ProdutosApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KennedyMartinsB"
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KennedyMartinsB&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KennedyMartinsB/Java-Spring-2026.git",
-    "accountId": "bdc041ad-32e5-46ec-a9da-e6b5fdc4b0f4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KennedyMartinsB/Java-Spring-2026.git&quot;,
+    &quot;accountId&quot;: &quot;bdc041ad-32e5-46ec-a9da-e6b5fdc4b0f4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 6
-}]]></component>
-  <component name="ProjectId" id="3L1ydAjL0InDFIDhqoo2Y09zzl2" />
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="6.576649817009667E-9" />
+      <entry key="MS500" value="0.023099412988653777" />
+      <entry key="S2" value="0.38985242130566167" />
+      <entry key="S5" value="0.6860568452475503" />
+      <entry key="S10" value="0.8285241457438117" />
+      <entry key="S30" value="1.154207541104898" />
+      <entry key="S60" value="2.1876398015628267" />
+      <entry key="M2" value="3.90022260755767" />
+      <entry key="M5" value="6.322580764558807" />
+      <entry key="M10" value="12.15375157097322" />
+      <entry key="M15" value="19.90763631667867" />
+      <entry key="M30" value="38.49626320898545" />
+      <entry key="H1" value="56.40137826925411" />
+      <entry key="H2" value="69.01468214214096" />
+      <entry key="H4" value="76.53150239009854" />
+      <entry key="D1" value="83.51727102087544" />
+      <entry key="W1" value="84.78636242634295" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.000000251319139" />
+      <entry key="S10" value="1.0005791749004753" />
+      <entry key="S30" value="1.1230541273894032" />
+      <entry key="S60" value="1.4959059797426995" />
+      <entry key="M2" value="2.110407034026656" />
+      <entry key="M5" value="3.4654943031258596" />
+      <entry key="M10" value="5.834961381986013" />
+      <entry key="M15" value="8.31008337297075" />
+      <entry key="M30" value="13.655085472348546" />
+      <entry key="H1" value="18.513270349006117" />
+      <entry key="H2" value="21.846799689649835" />
+      <entry key="H4" value="23.808413909977084" />
+      <entry key="D1" value="25.61756732744392" />
+      <entry key="W1" value="25.944929682142853" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.955737006302194E-4" />
+      <entry key="MS500" value="0.18340148786923127" />
+      <entry key="S2" value="0.8680133600988778" />
+      <entry key="S5" value="1.3842599632421029" />
+      <entry key="S10" value="1.6546383239401303" />
+      <entry key="S30" value="2.207534587624486" />
+      <entry key="S60" value="3.6364944927939105" />
+      <entry key="M2" value="5.976728098321694" />
+      <entry key="M5" value="9.766951155594333" />
+      <entry key="M10" value="17.970389782759657" />
+      <entry key="M15" value="28.19931875993087" />
+      <entry key="M30" value="52.13501261297028" />
+      <entry key="H1" value="74.90310370999892" />
+      <entry key="H2" value="90.85452760427543" />
+      <entry key="H4" value="100.3360879922872" />
+      <entry key="D1" value="109.13414597940421" />
+      <entry key="W1" value="110.73119178996936" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="3L1ygnEXIZZ4CnwqtkMy3S2jNGG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.produtosapi [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ProdutosApiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/negredy/Desktop/Java-files/Java-Spring-2026/produtosapi/produtosapi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="ProdutosApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="produtosapi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="io.github.cursodsousa.produtosapi.ProdutosApiApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.github.cursodsousa.produtosapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ProdutosApiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -67,11 +170,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c41a4a59-5449-4700-903a-70ce03d10fe7" name="Changes" comment="" />
-      <created>1792635953702</created>
+      <changelist id="b18bd3a5-07db-43fb-801d-a6d1c3e70b65" name="Changes" comment="" />
+      <created>1792635982987</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1792635953702</updated>
+      <updated>1792635982987</updated>
     </task>
     <servers />
   </component>
