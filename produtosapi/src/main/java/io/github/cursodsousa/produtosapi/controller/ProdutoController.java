@@ -11,7 +11,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class ProdutoController {
 
     @PostMapping
-    public void salvar(@RequestBody Produto produto){
+    public Produto salvar(@RequestBody Produto produto){
         System.out.println("Produto Recebido!!!" + produto);
+        return produto;
     }
 }

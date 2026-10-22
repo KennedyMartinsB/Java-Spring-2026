@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b18bd3a5-07db-43fb-801d-a6d1c3e70b65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/ProdutosApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/ProdutosApiApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/controller/ProdutoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,61 +45,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="4.20800709946084E-12" />
-      <entry key="MS500" value="0.005306587049019315" />
-      <entry key="S2" value="0.26990058333284495" />
-      <entry key="S5" value="0.5922178990698252" />
-      <entry key="S10" value="0.7695569498548014" />
-      <entry key="S30" value="0.9163898175313625" />
-      <entry key="S60" value="0.9572825170928261" />
-      <entry key="M2" value="0.9784087127934603" />
-      <entry key="M5" value="1.0029411033510993" />
-      <entry key="M10" value="1.5137411502299167" />
-      <entry key="M15" value="3.3891587506942353" />
-      <entry key="M30" value="14.361410496267991" />
-      <entry key="H1" value="34.687680395956846" />
-      <entry key="H2" value="55.22614584618107" />
-      <entry key="H4" value="70.01159797672358" />
-      <entry key="D1" value="85.49517147102198" />
-      <entry key="W1" value="88.49026791182611" />
+      <entry key="MS100" value="1.0000000728812433" />
+      <entry key="MS500" value="1.0431674514028102" />
+      <entry key="S2" value="1.8157770537026467" />
+      <entry key="S5" value="2.866209043696542" />
+      <entry key="S10" value="3.665189325106039" />
+      <entry key="S30" value="5.285863592492843" />
+      <entry key="S60" value="6.940314066908205" />
+      <entry key="M2" value="8.509688303250138" />
+      <entry key="M5" value="10.53399889800938" />
+      <entry key="M10" value="14.579779915909505" />
+      <entry key="M15" value="18.55334072935981" />
+      <entry key="M30" value="29.446141333040984" />
+      <entry key="H1" value="49.662196207786074" />
+      <entry key="H2" value="75.0014440656279" />
+      <entry key="H4" value="96.2579742779922" />
+      <entry key="D1" value="121.04600527860102" />
+      <entry key="W1" value="126.12638481333106" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0000000000001121" />
-      <entry key="M2" value="1.0000004142607366" />
-      <entry key="M5" value="1.0063389278972241" />
-      <entry key="M10" value="1.243289048409613" />
-      <entry key="M15" value="1.9921817165525928" />
-      <entry key="M30" value="5.750867160068975" />
-      <entry key="H1" value="12.094482159191259" />
-      <entry key="H2" value="18.22196924586955" />
-      <entry key="H4" value="22.53762806228114" />
-      <entry key="D1" value="26.997461320695056" />
-      <entry key="W1" value="27.85433940722604" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="2.068887870020666E-185" />
+      <entry key="S10" value="6.418269914452862E-93" />
+      <entry key="S30" value="2.9485639234952033E-31" />
+      <entry key="S60" value="7.678799293929536E-16" />
+      <entry key="M2" value="3.918817203021468E-8" />
+      <entry key="M5" value="0.0016567218215980766" />
+      <entry key="M10" value="0.06445500675835208" />
+      <entry key="M15" value="0.2806490154734375" />
+      <entry key="M30" value="2.0672227441106816" />
+      <entry key="H1" value="7.245871097855873" />
+      <entry key="H2" value="14.298716376142456" />
+      <entry key="H4" value="20.300741353199747" />
+      <entry key="D1" value="27.31556207813063" />
+      <entry key="W1" value="28.752879718781337" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="9.300953813466555E-9" />
-      <entry key="MS500" value="0.027538685879680818" />
-      <entry key="S2" value="0.6263155385261467" />
-      <entry key="S5" value="1.2459981527320623" />
-      <entry key="S10" value="1.5762579947311604" />
-      <entry key="S30" value="1.8467937279404578" />
-      <entry key="S60" value="1.9217910967703937" />
-      <entry key="M2" value="1.9604862267398224" />
-      <entry key="M5" value="2.002022523936641" />
-      <entry key="M10" value="2.7525874665749037" />
-      <entry key="M15" value="5.376628494287409" />
-      <entry key="M30" value="20.10527494734184" />
-      <entry key="H1" value="46.77456119619819" />
-      <entry key="H2" value="73.44228469969958" />
-      <entry key="H4" value="92.54558683597138" />
-      <entry key="D1" value="112.49190054763795" />
-      <entry key="W1" value="116.34449924781215" />
+      <entry key="MS100" value="0.9592641882751218" />
+      <entry key="MS500" value="1.0344082579973959" />
+      <entry key="S2" value="1.8115067941619223" />
+      <entry key="S5" value="2.8634378299560876" />
+      <entry key="S10" value="3.663411671621334" />
+      <entry key="S30" value="5.28501596346112" />
+      <entry key="S60" value="6.939762083747525" />
+      <entry key="M2" value="8.50935155256559" />
+      <entry key="M5" value="10.535472056805311" />
+      <entry key="M10" value="14.643866912449486" />
+      <entry key="M15" value="18.833194336636055" />
+      <entry key="M30" value="31.510748780878227" />
+      <entry key="H1" value="56.90345962770324" />
+      <entry key="H2" value="89.29555943684699" />
+      <entry key="H4" value="116.55542535412417" />
+      <entry key="D1" value="148.3608245882274" />
+      <entry key="W1" value="154.87915270812323" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -116,33 +114,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.produtosapi [clean,install].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "Spring Boot.ProdutosApiApplication.executor": "Run",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/negredy/Desktop/Java-files/Java-Spring-2026/produtosapi",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.produtosapi [clean,install].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ProdutosApiApplication.executor&quot;: &quot;Run&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/negredy/Desktop/Java-files/Java-Spring-2026/produtosapi&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Global Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="ProdutosApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
