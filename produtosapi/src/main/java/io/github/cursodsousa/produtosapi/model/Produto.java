@@ -1,11 +1,26 @@
 package io.github.cursodsousa.produtosapi.model;
 
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table
 public class Produto {
 //    Classe POJO = Plain old java object || Classe com propriedade privadas e metodos getters and setters
 
+    @Id
+    @Column(name = "id")
     private String id;
+
+    @Column
     private String nome;
+
+    @Column
     private String descricao;
+
+    @Column
     private Double preco;
 
     public String getId(){
