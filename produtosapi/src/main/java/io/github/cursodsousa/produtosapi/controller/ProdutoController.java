@@ -2,6 +2,7 @@ package io.github.cursodsousa.produtosapi.controller;
 
 import io.github.cursodsousa.produtosapi.model.Produto;
 import io.github.cursodsousa.produtosapi.repository.ProdutoRepository;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
@@ -33,7 +34,24 @@ public class ProdutoController {
     }
 
     @GetMapping("/{id}")
-    public Produto obterPorId(@PathVariable String id){
-        return produtoRepository.findById(id).orElse(null);
+    public ResponseEntity<Produto> obterPorId(@PathVariable String id){
+        Produto produto = produtoRepository.findById(id).orElse(null);
+
+        if(produto == null){
+            return ResponseEntity.notFound().build();
+        }
+        return ResponseEntity.ok(produto);
+    }
+
+    @DeleteMapping("/{id}")
+    public ResponseEntity<Void> deletarPorId(@PathVariable String id) {
+        Produto produto = produtoRepository.findById(id).orElse(null);
+
+        if(produto == null){
+            return ResponseEntity.notFound().build();
+        }
+
+        produtoRepository.delete(produto);
+        return ResponseEntity.noContent().build();
     }
 }
