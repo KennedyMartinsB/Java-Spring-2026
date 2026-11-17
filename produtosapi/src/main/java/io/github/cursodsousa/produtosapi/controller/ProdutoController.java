@@ -54,4 +54,11 @@ public class ProdutoController {
         produtoRepository.delete(produto);
         return ResponseEntity.noContent().build();
     }
+
+    @PutMapping("/{id}")
+    public ResponseEntity<Void> atualizar(@PathVariable String id, @RequestBody Produto produto){
+        produto.setId(id);
+        produtoRepository.save(produto);
+        return ResponseEntity.noContent().build();
+    }
 }
