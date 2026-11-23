@@ -45,61 +45,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.943856100547133E-15" />
-      <entry key="MS500" value="0.0011432800872758755" />
-      <entry key="S2" value="0.2162564921173367" />
-      <entry key="S5" value="0.7615953878968545" />
-      <entry key="S10" value="1.217184253602236" />
-      <entry key="S30" value="2.0285988964449855" />
-      <entry key="S60" value="3.9674661511530624" />
-      <entry key="M2" value="8.061723558482404" />
-      <entry key="M5" value="16.92828676101972" />
-      <entry key="M10" value="27.361340188306297" />
-      <entry key="M15" value="36.890979410590646" />
-      <entry key="M30" value="64.67310705483831" />
-      <entry key="H1" value="109.41383889666281" />
-      <entry key="H2" value="164.45504047685031" />
-      <entry key="H4" value="214.6203890146452" />
-      <entry key="D1" value="279.37082295496936" />
-      <entry key="W1" value="293.5333806474231" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000151260477284" />
+      <entry key="S2" value="1.073343623261258" />
+      <entry key="S5" value="1.4941759297979165" />
+      <entry key="S10" value="1.9804714829586434" />
+      <entry key="S30" value="2.8875091488139515" />
+      <entry key="S60" value="4.827010646801263" />
+      <entry key="M2" value="8.917737912853255" />
+      <entry key="M5" value="17.806694091879233" />
+      <entry key="M10" value="28.262897440495575" />
+      <entry key="M15" value="37.80244011750831" />
+      <entry key="M30" value="65.59545187864106" />
+      <entry key="H1" value="110.3481307269069" />
+      <entry key="H2" value="165.4056515572342" />
+      <entry key="H4" value="215.58815933939636" />
+      <entry key="D1" value="280.3638303028244" />
+      <entry key="W1" value="294.5323310445943" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000121053166797" />
-      <entry key="S2" value="1.0602914470300318" />
-      <entry key="S5" value="1.392536711249325" />
-      <entry key="S10" value="1.8330079467345644" />
-      <entry key="S30" value="2.738083448401028" />
-      <entry key="S60" value="4.420751759511567" />
-      <entry key="M2" value="7.483847166705458" />
-      <entry key="M5" value="12.449294867239294" />
-      <entry key="M10" value="16.91674153867917" />
-      <entry key="M15" value="20.716698519209753" />
-      <entry key="M30" value="31.23696950350289" />
-      <entry key="H1" value="46.39312796796691" />
-      <entry key="H2" value="63.452107207509684" />
-      <entry key="H4" value="78.36441632823838" />
-      <entry key="D1" value="97.20614901171933" />
-      <entry key="W1" value="101.28982511937713" />
+      <entry key="MS100" value="4.0538169597095107E-10" />
+      <entry key="MS500" value="0.013230555663791882" />
+      <entry key="S2" value="0.3595989913491738" />
+      <entry key="S5" value="0.9035744372871223" />
+      <entry key="S10" value="1.4765324267800852" />
+      <entry key="S30" value="2.5476488073270285" />
+      <entry key="S60" value="4.264249121721992" />
+      <entry key="M2" value="7.350182627321177" />
+      <entry key="M5" value="12.359873946315963" />
+      <entry key="M10" value="16.855877176421682" />
+      <entry key="M15" value="20.66697791348997" />
+      <entry key="M30" value="31.199462222947997" />
+      <entry key="H1" value="46.36526670691651" />
+      <entry key="H2" value="63.4330513548386" />
+      <entry key="H4" value="78.3526482958491" />
+      <entry key="D1" value="97.20371594165425" />
+      <entry key="W1" value="101.28946293199407" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.004581386520437028" />
-      <entry key="MS500" value="0.3408013187683163" />
-      <entry key="S2" value="0.9543750588623674" />
-      <entry key="S5" value="1.8972658921399066" />
-      <entry key="S10" value="2.855510269245778" />
-      <entry key="S30" value="4.661269127433153" />
-      <entry key="S60" value="8.296691040461248" />
-      <entry key="M2" value="15.462187273417738" />
-      <entry key="M5" value="29.31448409767873" />
-      <entry key="M10" value="44.22951534410451" />
-      <entry key="M15" value="57.56433079127782" />
-      <entry key="M30" value="95.87265311494586" />
-      <entry key="H1" value="155.77717010521945" />
-      <entry key="H2" value="227.88622818193906" />
-      <entry key="H4" value="292.9717655483085" />
-      <entry key="D1" value="376.574260684599" />
-      <entry key="W1" value="394.82280184653706" />
+      <entry key="MS100" value="4.0723890620850427E-10" />
+      <entry key="MS500" value="0.01773933174182135" />
+      <entry key="S2" value="0.6628284155771216" />
+      <entry key="S5" value="1.8799471331802977" />
+      <entry key="S10" value="3.105707176265381" />
+      <entry key="S30" value="5.267525921784825" />
+      <entry key="S60" value="8.967571300268544" />
+      <entry key="M2" value="16.168165945864654" />
+      <entry key="M5" value="30.096740915093864" />
+      <entry key="M10" value="45.066785092516774" />
+      <entry key="M15" value="58.42377490116743" />
+      <entry key="M30" value="96.75633486012694" />
+      <entry key="H1" value="156.68301802161645" />
+      <entry key="H2" value="228.81748937349553" />
+      <entry key="H4" value="293.92761962825193" />
+      <entry key="D1" value="377.56481000025076" />
+      <entry key="W1" value="395.82138648201664" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -187,5 +187,16 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/../.." />
     </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/io/github/cursodsousa/produtosapi/controller/ProdutoController.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
