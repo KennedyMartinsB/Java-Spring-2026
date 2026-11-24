@@ -23,7 +23,7 @@ public class ProdutoController {
     public Produto salvar(@RequestBody Produto produto){
         System.out.println("Produto Recebido!!!" + produto);
         var id = UUID.randomUUID().toString();
-        produto.setId(id);
+        produto.setId(id); 
         produtoRepository.save(produto);
         return produto;
     }
@@ -62,4 +62,9 @@ public class ProdutoController {
         return ResponseEntity.noContent().build();
     }
 
+    @GetMapping("/filtro")
+    public ResponseEntity<List<Produto>> filtro(@RequestParam(value = "nome") String nome) {
+        List<Produto> produtos = produtoRepository.findByNome(nome);
+        return ResponseEntity.ok(produtos);
+    }
 }
